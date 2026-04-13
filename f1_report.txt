@@ -1,0 +1,15 @@
+============================================================
+DEEPRESEARCHER BENCHMARK REPORT (F1 SCORE)
+============================================================
+Total questions: 500
+Exact matches (F1=1.0): 73
+Partial matches (0<F1<1): 146
+Incorrect (F1=0): 281
+------------------------------------------------------------
+Macro F1 Score: 23.42%
+============================================================
+
+Comparison with paper:
+Paper (GPT-4.1 + o3): 66.6% F1
+Your result (Qwen3-30B): 23.42% F1
+Difference: 43.18%
